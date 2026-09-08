@@ -1,0 +1,36 @@
+Implemented Features
+
+Authentication: login, signup, password reset, logout, session handling
+Role access: admin and cashier permissions
+Responsive dashboard navigation
+Light/dark theme toggle with saved preference
+Dashboard overview with statistics and activity cards
+POS product catalog loaded from inventory
+Product search and category filtering
+Product size selection
+Shopping cart with quantity controls
+Automatic subtotal, tax, and total calculation
+Payment modal with cash, card, and mobile payment options
+Cash change calculation
+Customer information during checkout
+Receipt generation and printing
+Inventory CRUD:
+Add products
+Edit products
+Delete products
+Update quantities
+Search and filter products
+Stock status badges
+Pagination
+CSV export
+Customer search, add, delete, and local persistence
+Settings persistence using local storage
+Toast notifications and confirmation modals
+Supabase integration for:
+Authentication
+User profiles
+Inventory
+Inventory statistics
+Categories
+Low/out-of-stock products
+Bulk updates
